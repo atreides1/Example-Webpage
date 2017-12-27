@@ -1,5 +1,7 @@
 body {
   background-color: "#d3d3d3";
+  background-image: url(mt-hood-stars.jpg);
+  background-position: center top;
 }
 h1 {
   text-align: center;
