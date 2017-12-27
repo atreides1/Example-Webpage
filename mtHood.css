@@ -2,7 +2,10 @@ body {
   background-color: "#d3d3d3";
   background-image: url(mt-hood-stars.jpg);
   background-position: center top;
+  font: normal 10px Verdana, Arial, sans-serif;
+  color: white;
 }
 h1 {
   text-align: center;
+  font: Verdana, Arial, sans-serif;
 }
