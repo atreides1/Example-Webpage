@@ -44,4 +44,6 @@ div.textbox {
 }
 div.textbox p {
   color: black;
+  margin: 5%; 
+  opacity: 1.0;
 }
