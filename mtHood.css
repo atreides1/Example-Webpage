@@ -9,7 +9,12 @@ body {
   font-family: CaviarDreams, sans-serif;
   color: white;
 }
+p {
+  margin-right: 2em;
+  font-size: 1.5em;
+}
 
 h1 {
+  font-size: 4em;
   text-align: center;
 }
