@@ -1,11 +1,14 @@
+@font-face { font-family: CaviarDreams; src: url('CaviarDreams.ttf'); }
+@font-face { font-family: CaviarDreams; font-weight: bold; src: url('Caviar Dreams Bold.ttf');}
+
 body {
   background-color: "#d3d3d3";
   background-image: url(mt-hood-stars.jpg);
   background-position: center top;
-  font: normal 10px Verdana, Arial, sans-serif;
+  font-family: CaviarDreams
   color: white;
 }
+
 h1 {
   text-align: center;
-  font: Verdana, Arial, sans-serif;
 }
