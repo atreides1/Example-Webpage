@@ -5,7 +5,9 @@ body {
   background-color: "#d3d3d3";
   background-image: url(mt-hood-stars.jpg);
   background-position: center top;
-  font-family: CaviarDreams
+  background-repeat: no-repeat;
+  font-family: CaviarDreams, sans-serif;
+
   color: white;
 }
 
