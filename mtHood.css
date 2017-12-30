@@ -2,12 +2,11 @@
 @font-face { font-family: CaviarDreams; font-weight: bold; src: url('Caviar Dreams Bold.ttf');}
 
 body {
-  background-color: "#d3d3d3";
+  border: 10px solid black;
+  background-color: '#464646';
   background-image: url(mt-hood-stars.jpg);
   background-position: center top;
-  background-repeat: no-repeat;
   font-family: CaviarDreams, sans-serif;
-
   color: white;
 }
 
